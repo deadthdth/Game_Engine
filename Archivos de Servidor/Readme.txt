@@ -20,8 +20,8 @@ Rotana (For Runnable the duel.exe and Database)
 Emisand (for Elminate this Command Admin_Halt MatchServer)
 Maxtraxv3 (For their patience and for his great work in developing the guide)
 meiscooldude (Gunz Server Manager) Good Work =D
-Crymore (Guia Instalación y Configuración)
-Deadthdth (Archivado, modelo bese de desarrollo)
+Crymore (Guia InstalaciÃ³n y ConfiguraciÃ³n)
+Deadthdth (Archivado, modelo bese de desarrollo, sin fines de lucro)
 
 License:
 The Unlincense http://unlicense.org/
