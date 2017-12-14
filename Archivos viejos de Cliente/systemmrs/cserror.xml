@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+<!-- servidor -->
+<STR id="100">El comunicador no tiene un UID.  Este comunicador debe ser inicializado por el Master-Creador.</STR>
+<STR id="101">El comunicador no tiene espacio de UID de asignar su UID.</STR>
+<STR id="110">El comunicador trata de conectarse a una conexión directa inválida.</STR>
+<STR id="200">El comando tiene un receptor inválido UID.  Si usted no se conecta a algun servidor y poner a receptor de valor por defecto, usted debe hacerlo primero.</STR>
+<STR id="300">Zona-Server es ajeno al Control-Maestro.</STR>
+<STR id="301">Zona-Server intento invalidar al Control-Maestro.</STR>
+<STR id="1000">Objeto inválido UID.</STR>
+<!--
+<STR id="1001"></STR>
+-->
+
+<STR id="2000">Archivo de mapa abierto error.</STR>
+
+<!-- Login -->
+<STR id="10000">Usted ingresó una contraseña incorrecta. Verifique las letras mayúsculas y minúsculas.</STR>
+<STR id="10001">La misma ID ya entró al sistema.</STR>
+<STR id="10002">La versión no corresponde con el servidor.</STR>
+<STR id="10003">Usted no puede entrar porque hay demasiados usuarios.</STR>
+<STR id="10004">A este Id no le está permitido acceder a Gunz Infinite online (Banned )For Unban..> Forum Link http://localhost/ </STR>
+<STR id="10005">La autentificación de GunZProtect a fallado</STR>
+<STR id="10006">Este PC no esta permitido para jugar GunZ Infinite</STR>
+<STR id="10007">Usted esta temporalmente baneado en este servidor</STR>
+
+<!-- Crear un caracter -->
+<STR id="10100">El nombre de carácter ya existe. Pruebe de nuevo</STR>
+<STR id="10101">Usted ha usado carácteres que no estan permitidos.</STR>
+<STR id="10102">El nombre es demasiado corto.</STR>
+<STR id="10103">El nombre es demasiado largo.</STR>
+<STR id="10104">Ingrese el nombre del personaje.</STR>
+<STR id="10110">El nombre del personaje no existe.</STR>
+<STR id="10111">No puede eliminar el personaje si pertenece a un clan o tiene items valiosos.</STR>
+
+<!-- shop -->
+<STR id="20001">Dinero Insuficiente!</STR>
+<STR id="20002">No se le permite comprar el item.</STR>
+<STR id="20003">No se le permite colocarse el item.</STR>
+<STR id="20004">No se le permite quitarse el item.</STR>	
+<STR id="20005">No se le permite vender el item.</STR>
+<STR id="20006">No se le permite vender el item equipado.</STR>
+<STR id="20007">Tal item no están disponible.</STR>
+<STR id="20008">Usted tiene demasiados items.</STR>
+<STR id="20009">El item seleccionado no existen.</STR>
+<STR id="20010">Tiene sobrepeso.</STR>
+<STR id="20011">Esto no es para su level.</STR>
+<STR id="20012">No puede equipar el mismo item en un slot.</STR>
+<STR id="20013">No puede ponerse/sacarse el item debido al sobrepeso.</STR>
+<STR id="20014">No puede vender el equipamiento en efectivo (o item) en un store(tienda).</STR>
+<STR id="20015">No puede tomar el equipamiento(o item) cuando no corresponde con su sexo. </STR>
+<STR id="20016">Este artículo no puede ser montado pues no corresponde a su level. Usted todavía quiere obtener el equipamiento(o item)?.</STR>
+<STR id="20017">No puede depositar el equipamiento(o item) en el Central Bank(Banco central).</STR>
+<STR id="20018">Usted puede depositar solamente un cash equipment(o item) en el Central Bank(Banco central).</STR>
+<STR id="20019">El equipamiento(o item) fue quitado debido a su level-down (level bajo).</STR>
+<STR id="20020">No puede equiparse el equipamiento(o item).</STR>
+
+<!-- room -->
+<STR id="30000">No puede entrar en el room(habitación).</STR>
+<STR id="30001">No pueden entrar más usuarios.</STR>
+<STR id="30002">Incorrecto password!</STR>
+<STR id="30003">Usted no puede entrar aquí por su level.</STR>
+<STR id="30004">La intrusión no es admitida.</STR>
+<STR id="30005">Su entrada está prohibida.</STR>
+<STR id="30006">El escenario no existe.</STR>
+<STR id="30007">El escenario en realidad existe.</STR>
+<STR id="30008">Usted no puede crear la habitación.</STR>
+<STR id="30009">No hay ninguna habitación disponible para entrar.</STR>
+
+<!-- channel -->
+<STR id="30020">No puede entrar en el channel.</STR>
+<STR id="30021">No pueden entrar más usuarios.</STR>
+<STR id="30022">Usted no puede entrar aquí por su level.</STR>
+<STR id="30023">Si usted tiene un carácter que es level 21 o mas, Usted no puede entrar en principiante o entre-level channel.</STR>
+
+<STR id="30026">No hay nadie que puede corresponderle (a usted).</STR>
+
+<!-- Clan -->
+<STR id="30030">No puede formar un clan.</STR>
+<STR id="30031">El clan no puede ser cerrado.</STR>
+<STR id="30032">El clan ya está presente.</STR>
+<STR id="30033">El número de miembros no es suficiente para la creación del clan.</STR>
+<STR id="30034">Este miembro en realidad pertenece a otro clan.</STR>
+<STR id="30035">No hay ningún miembro para la creación de clan en el lobby(vestíbulo).</STR>
+<STR id="30036">El nombre de clan es incorrecto.</STR>
+<STR id="30037">Éste no es ningún clan master(maestro de clan).</STR>
+<STR id="30038">No es clan master(maestro de clan) o administrador.</STR>
+<STR id="30039">Este miembro en realidad pertenece a otro clan.</STR>
+<STR id="30040">La suscripción no está procesada.</STR>
+<STR id="30041">Este miembro pertenece a otro clan.</STR>
+<STR id="30042">El miembro no está en el lobby.</STR>
+<STR id="30043">Tu no te has reunido con el clan.</STR>
+<STR id="30044">Tu no puedes retirarte del clan.</STR>
+<STR id="30045">No puedes agregar más miembros al clan.</STR>
+<STR id="30046">Su primer oficial o compañero no se ha registrado.</STR>
+<STR id="30047">No en el mismo clan.</STR>
+<STR id="30048">Tu no puedes cambiar la autorización.</STR>
+<STR id="30049">El miembro del clan pertinente no esta disponible. </STR>
+<STR id="30050">Insuficiente bounty(recompensa) (1000 BP) para la creación de clan.</STR>
+<STR id="30051">Solamente aquellos de level 10 o más pueden crearse un clan.</STR>
+<STR id="30052">El clan será cerrado en '%s'.</STR>
+
+<!-- Equipo -->
+<STR id="30070">Usted no puede solicitar un clan war(guerra de clanes).</STR>
+<STR id="30071">Miembros de equipo diferentes.</STR>
+<STR id="30072">El miembro del equipo no está disponible.</STR>
+<STR id="30073">Hay un miembro que no puede solicitar el partido de equipo.</STR>
+
+<!-- Clan miembros -->
+<STR id="30080">No en el mismo clan.</STR>
+<STR id="30081">No miembros.</STR>
+<STR id="30082">Hay un miembro que no puede solicitar un clan war(guerra de clanes).</STR>
+
+<!-- charla -->
+<STR id="30103">Todavía no soportado.</STR>
+<STR id="30104">Por favor no use lenguaje vulgar o profano.</STR>
+<STR id="30105">Usted no puede escribir los mismos contenidos tres veces consecutivas o más.</STR>
+<STR id="30106">Prohibido charlar por 1 minuto.</STR>
+
+
+<STR id="90000">No puede acceder al servidor -> GunZ Infinite http://localhost/ .</STR>
+<STR id="90002">Desconectado desde el servidor.</STR>
+
+<!-- clan accion -->
+<STR id="100000">Usted se ha unido con el clan.</STR>
+<STR id="100001">El clan ha sido creado.</STR>
+
+
+<!-- no ingreso -->
+<STR id="110000">Usted no puede entrar.</STR>
+
+<!-- votación -->
+<STR id="120000">No puede votar.</STR>	
+
+
+<!-- Mensaje de deconección -->
+<STR id="130001">Un intento de hacking fue detectado. La conección a el GunZ Infinite game server sera terminada en breve. </STR>
+<STR id="130002">Esta cuenta ha sido bloqueada debido a un intento de hacking. Bloqueo de cuenta continuará aproximadamente por una hora.</STR>
+<STR id="130003">La conexión es negada debido a el estado de micelaneas del usuario.  La conexión a el  GunZ Infinite game server será puesta fin en breve.</STR>
+<STR id="130004">Un archivo inválido ha sido detectado.</STR>
+
+
+
+<!-- Votación -->
+<STR id="200000">Usted no puede empezar el voto.</STR>	
+<STR id="200001">Tu no puede proceder con el voto por la escala del juego.</STR>	
+<STR id="200002">La votación ya empezó.</STR>	
+<STR id="200003">Voto desaprobado.</STR>	
+<STR id="200004">10 segundos quedan.</STR>	
+<STR id="200005">30 segundos quedan.</STR>	
+<STR id="200006">60 segundos quedan.</STR>	
+<STR id="200007">El personal esta muchos demasiado.</STR>	
+<STR id="200008"> '%s' No está disponible.</STR>	
+
+</XML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

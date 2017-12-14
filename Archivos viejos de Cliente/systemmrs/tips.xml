@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+    <!-- -  category
+            default = 0 
+            0 - ??
+            1 - ??? 
+            2 - ?? 
+            3 - ??? 
+            4 - ??? 
+            5 - ??
+            6 - ??
+            7 - ??
+    -->
+    <!-- MSG??? id? ??? ???? ??? ??? ??? ?????. -->
+    
+<TIPS category="0">
+	<!-- SEASON TIPS al cargar la pantalla -->
+    <!--<MSG>URL</MSG> -->
+    <!--<MSG>nombre game. URL</MSG> --> 
+	
+	<!-- STATIC TIPS -->
+    <MSG>GunZ deadthdth es un juego de acción al que usted puede jugar sin cargo, para siempre.</MSG>
+    <MSG>http://hellsingforos.forospanish.com/   http://hellsingforos.forospanish.com/</MSG>
+    <MSG>Presione F11 para iniciar la grabacion del juego. Para dejar de grabar, presione F11 otra vez.</MSG>
+    <MSG>http://hellsingforos.forospanish.com/   http://hellsingforos.forospanish.com/</MSG>
+    <MSG>La ruta de guardado de la grabación o la captura de pantalla aparece en pantalla en el momento de grabacion.</MSG>
+<!--    <MSG>You can enjoy a Clan War on the Clan War server. Enjoy the interesting Clan War!</MSG> -->
+    <MSG>Presione F12 para sacar fotos durante el juego.</MSG>
+    <MSG>Para denunciar a un jugador ir a: http://hellsingforos.forospanish.com/ </MSG>
+<!--    <MSG>All the characters of the same purchase account can share the cash items.</MSG> -->
+    <MSG>¿Usted usa un dispositivo de repartición? Pruebe la función de envío(forwarding) de puerto. Usted puede experimentar un red optimizada en el juego.</MSG>
+<!--    <MSG>URL                      URL</MSG> -->
+    <MSG>GunZ Infinite está demasiado lento? Use optimización en las opciónes.</MSG>
+    <MSG>"¡Juegue ahora!": Usted no necesita buscar una habitación vacía. Usted puede participar en cualquier partido.</MSG>
+    <MSG>Los administradores y ADMIN nunca preguntarán por su contraseña.</MSG>
+<!--    <MSG>You can play the game by making a clan with friends.</MSG> -->
+<!--    <MSG>The items bought at the item shop on the home page are deposited into the "Central Bank".</MSG> -->
+    <MSG>Bounty items no son compartidos con las otras personaje a través del Central Bank.</MSG>
+    <MSG>En el modo de entrenamiento, usted no puede cambiar el número de victoria o perder o el valor empírico.</MSG>
+    <MSG>Use el mandato de chat '/r' Para enviar la respuesta de whispering.</MSG>
+    <MSG>http://hellsingforos.forospanish.com/ http://hellsingforos.forospanish.com/</MSG>
+    
+    
+    <!-- GM Message -->
+    <MSG>Cualquier ID que puede ofender a otros puede estar restringido.</MSG>
+    <MSG>Alguien quién ofende a otros dentro de un juego puede estar sujeto al castigo por el equipo de operaciones.</MSG>
+
+    <!-- ?? ?? -->
+    <MSG>¡Cuando se defiende contra el ataque de combate cercano, Tiene la oportunidad de Ataque Masivo ahora mismo.</MSG>
+    <MSG>Presione Ctrl+Number mientras este observando un juego tenga el número asignado para ver el jugador relevante. </MSG>
+ 
+    <!-- ??? ?? -->
+<!--    <MSG>Have you played the breath-taking clan war? Now try it.</MSG> -->
+<!--    <MSG>In a Clan War you can have 3.5 times of the Exp. There is no loss of the Exp. resulting from the level difference.</MSG> -->
+</TIPS>    
+
+<!-- ??? -->
+<TIPS category="4">
+	<MSG id="1">Presionar F1 mientras que el juego está encendido para ver la descripción de tecla.</MSG>
+</TIPS>
+
+</XML>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

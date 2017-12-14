@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML>
+	<XMLHEADER>version="1.0" encoding="UTF-8"</XMLHEADER>
+
+	<SKIN>Default</SKIN>
+
+	<DEFFONT>Arial</DEFFONT>
+
+	<IME>true</IME>
+
+	<BAREPORT>
+		<ADDR>http://localhost/</ADDR>
+		<DIR>incoming/gunz_global</DIR>
+	</BAREPORT>
+
+	<HOMEPAGE>
+	    <URL>http://localhost/home.php</URL>
+	    <TITLE>GunZ deadthdth</TITLE>
+	</HOMEPAGE>
+	
+	<EMBLEM_URL>http://localhost/</EMBLEM_URL>
+        
+	<TEMBLEM_URL>http://localhost/</TEMBLEM_URL>
+
+
+	<LOCATORLIST>
+		<LOCATOR id="1" IP="tu ip con puntos" />
+		</LOCATORLIST>
+	
+	<TLOCATORLIST>
+		<LOCATOR id="1" IP="tu ip con puntos" />
+		</TLOCATORLIST>
+	
+	</XML>
