@@ -1,0 +1,10 @@
+//------------------------------------------------------------------------------------------------------------------
+//IMPORTANTE:
+//------------------------------------------------------------------------------------------------------------------
+
+//PORFAVOR NO TOCAR LAS CARPETAS NI LOS ARCHIVOS DE ESTE CLIENTE. SI USTED NO SABE
+//SINO ARRUINARÁ LOS ARCHIVOS QUE PERMITEN LA FUNCIONALIDAD DE GUNZ
+//Y POR LO TANTO, NO ANDARÁ EL JUEGO.
+
+LICENSE:
+THE UNLICENSE http://unlicense.org/

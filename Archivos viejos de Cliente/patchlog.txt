@@ -1,0 +1,9 @@
+Log start : Mon Aug 28 20:23:19 2017
+
+Current Directory : C:\Archivos viejos del cliente(DEADTHDTH)
+20:23:19:449   [APP] OS version : Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+20:23:19:496   [APP] Window created successfully.
+20:24:01:261   [ZUpdate] Destroy.
+20:24:01:402   [ZFileTransfer] Destroy.
+20:24:01:480   [ZFileTransfer] Destroy successfly complete.
+20:24:01:714   [ZUpdate] Destroy successfully complete.

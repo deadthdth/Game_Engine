@@ -1,0 +1,1115 @@
+GUNZ 1,0,0,290 [Runnable By Xiaolin A.K.A Elton 2008] 
+Log time (08/28/17 20:23:50)
+NON-Skip XTrapPatch
+CPU ID = AuthenticAMD ( family = 527 , model = 12 , stepping = 2 ) @ 1607 MHz
+Display Device = NVIDIA GeForce 6200 TurboCache(TM) ( vendor=10de device=161 subsys=81fe1043 revision=a1 )
+Display Driver Version = 6.14.0011.7516
+Windows = 5.1 Build 2600 , Service Pack 3 (1572080KB) :  Windows xp..
+Load XML from memory : system/locale.xml- SUCCESS
+Country : (BRZ), Language : (BRZ)
+Load XML from memory : system/gametypecfg.xml 
+Load Config from file : config.xml- SUCCESS
+Load XML from memory : system/system.xml- SUCCESS
+Load XML from memory : system/strings.xml(0x0016) - SUCCESS
+Load XML from memory : system/cserror.xml(0x0016) - SUCCESS
+Load XML from memory : system/messages.xml(0x0016) - SUCCESS
+InitializeNotify ok.
+WFog Enabled Device.
+device created.
+Video memory 311.500000 
+main : RGetLenzFlare()->Initialize() 
+InitialLoading success.
+interface Initialize success
+ZApplication::OnCreate : begin
+0(Controlador primario de sonido): Hardware Mixing Supported
+1(Realtek HD Audio output): Hardware Mixing Supported
+[[[getMaxChannel48]]]]
+LoadWave: Error creating hardware sound buffer.
+
+-------------------> Sound Engine Create : 3.114000 
+
+sound engine create.
+Load XML from memory : System/tips.xml(0x0016)- SUCCESS
+start log bipmap
+end of load bitmaps2
+loading pictures : 4.036000 
+warning : bitmap fix_ani_lobby.png not found.
+warning : bitmap slot_head.tga not found.
+warning : bitmap slot_head.tga not found.
+warning : bitmap fix_ani_lobby.png not found.
+warning : bitmap fix_ani_lobby.png not found.
+warning : bitmap icon_gameroom.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+warning : bitmap icon_gameroom_s.tga not found.
+IDLResource Loading Success!!
+IDL resources : 0.970000 
+start InitInterface option
+Number of Display mode : 48
+Number of Display mode : 48
+end of InitInterface option ok
+Init maps : no Current ChannelRule 
+Screen Effect Manager Create : 0.549000 
+Screen effect manager create success.
+Effect manager create success.
+Client create success.
+game interface create success.
+
+-------------------> GameInterface Create : 9.081000 
+
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 1 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 1 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 1 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 1 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 1 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 1 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 1 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 1 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 1 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 1 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Foot not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 0 Bip01 L Calf not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 L Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Toe0 not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 1 Bip01 R Foot not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 0 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 1 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 L Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 1 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 1 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Thigh not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 Pelvis not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 1 0 Bip01 R Calf not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 1 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L Hand not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 1 Bip01 R ForeArm not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 2 0 Bip01 R Hand not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 3 0 Bip01 Head not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 2 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 Head not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 L UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 L Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 Neck not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 2 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 2 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 2 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 2 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Pelvis not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine1 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 1 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R ForeArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 1 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 Head not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 1 Bip01 Spine2 not found !!
+ReadElu() : physique 4 2 Bip01 R UpperArm not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 R Clavicle not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 1 Bip01 Neck not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+ReadElu() : physique 4 0 Bip01 Spine2 not found !!
+Load character.xml success,
+
+-------------------> Character Loading : 22.468001 
+
+----------> in zip ( model/weapon/item/aaaaaaaaaa.elu ) file not found!! 
+ 
+-------------------> WeaponMesh Loading : 3.140000 
+
+----------> in zip ( model/weapon/item/chocobar.elu ) file not found!! 
+ Load weapon.xml success. 
+
+-------------------> Worlditem Loading : 0.109000 
+
+Load zitem info success.
+Error while Read Item Descriptor system/zeffect.xml
+Init effect manager success.
+Init world item manager success.
+Init channel rule manager success.
+Init abuse manager success.
+Init chatting filter. success
+
+-------------------> ETC .. : 1.072000 
+
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 38 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+Load smoke description mesh.
+main : OnCreate() done
+Server Connected
+md5 failed : filePath error!
+Login Posted
+Login Successful. 
+Responsed Account Charlist
+Selected character name : Jenny (4A 65 6E 6E 79 )  (len = 5)
+StageCreated
+MLogoutListener !
+BspObject open : begin interface/login/login.rs 
+RBspObject::Open : Open_MaterialList
+RBspObject::Open : Open_LightList
+BspObject open object list : begin
+RBspObject::Open_ObjectList : size 38 
+RBspObject::Open_ObjectList : end
+RBspObject::Open : OpenDescription
+RBspObject::OpenRs : file.Open 
+RBspObject::OpenRs : file.Read(&header) 
+RBspObject::OpenRs : file.Read(&nMaterial) 
+RBspObject::OpenRs : Open_Nodes begin 
+RBspObject::OpenRs : Open_Nodes end 
+RBspObject::Open : OpenRs 
+RBspObject::Open : OpenBsp 
+BspObject load lightmap : file.Read(&header)
+BspObject load lightmap nCount = 1
+BspObject load lightmap 0
+BspObject load lightmap : file.Read(&m_nLightmap) done
+BspObject load lightmap : end 
+RBspObject::Open : done
+Load smoke description mesh.
+MExitListener !
+Destroy gunz
+Destroy sound engine.
+Destroy sound engine. success
+Destroy console.
+Destroy interface begin 
+destroy client.
+PeerInfoList Released
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+clear IDL resource end.
+Final interface end.
+Destroy game interface done.
+clear looks end.
+Widget map clear end.
+desctroy cursor system end.
+Destroy mesh manager.
+Destroy weapon mesh manager.
+destroy game application done.
+interface finalize.
+game input destroy.
+game gonfiguration destroy.
+Bitmap manager destroy Animation bitmap.
+destroy gunz finish.
+Rframe_destory::closeDisplay

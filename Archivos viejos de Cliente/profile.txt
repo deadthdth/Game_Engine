@@ -1,0 +1,6 @@
+ total time = 76.599 seconds 
+id   (loop ms)  seconds     %        calledcount   name 
+=========================================================
+(00031)    1.#IO    7.066 (  9.225 % ,   1644) ZSoundEngine::Run 
+(00033)    1.#IO    7.059 (  9.216 % ,   1644) ZSoundEngine::Run : Update 
+(01004)    1.#IO    0.003 (  0.004 % ,   1644) ZSoundEngine::Run : SetListener 

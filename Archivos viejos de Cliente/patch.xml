@@ -1,0 +1,83 @@
+<?xml version="1.0"?> 
+
+<XML> 
+
+<PATCHINFO>
+ 
+	<VERSION>1.0.0.33</VERSION>
+ 
+	<PATCHNODE file="./gunz.exe">
+ 
+		<SIZE>3674112</SIZE>
+ 
+		<CHECKSUM>3728534357</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./GunzLauncher.exe">
+ 
+		<SIZE>843776</SIZE>
+ 
+		<CHECKSUM>971043643</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./modelmrs">
+ 
+		<SIZE>6382251</SIZE>
+ 
+		<CHECKSUM>1211486137</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./patch.xml">
+ 
+		<SIZE>913</SIZE>
+ 
+		<CHECKSUM>2203269730</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./sfxmrs">
+ 
+		<SIZE>1952610</SIZE>
+ 
+		<CHECKSUM>604615435</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./systemmrs">
+ 
+		<SIZE>90979</SIZE>
+ 
+		<CHECKSUM>1314186173</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./Update1mrs">
+ 
+		<SIZE>11975875</SIZE>
+ 
+		<CHECKSUM>2756348047</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./update2mrs">
+ 
+		<SIZE>9759988</SIZE>
+ 
+		<CHECKSUM>2832788945</CHECKSUM>
+ 
+	</PATCHNODE>
+ 
+	<PATCHNODE file="./update3mrs">
+ 
+		<SIZE>4606028</SIZE>
+ 
+		<CHECKSUM>4012656801</CHECKSUM>
+ 
+	</PATCHNODE> 
+
+</PATCHINFO> 
+
+</XML> 
